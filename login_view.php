@@ -4,6 +4,12 @@
 <title>Login</title>
 </head>
 <body>
-<p>Selamat Datang Ke Rumah Novel Saya</p>
+<div class="container">
+  <div class="row">
+
+  </div>
+</div>
 </body>
+<footer>
+</footer>
 </html>
